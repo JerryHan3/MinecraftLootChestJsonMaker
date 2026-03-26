@@ -1,0 +1,33 @@
+[
+    {
+        "path": "\\chests",
+        "suffix": ""
+    },
+    {
+        "path": "\\chests\\village",
+        "suffix": ""
+    },
+    {
+        "path": "\\chests\\trial_chambers",
+        "suffix": ""
+    },
+    {
+        "path": "\\dispensers\\trial_chambers",
+        "suffix": "_dispenser"
+    },
+    {
+        "path": "\\pots\\trial_chambers",
+        "suffix": "_pot"
+    },
+    {
+        "path": "\\spawners\\trial_chamber",
+        "suffix": "_spawner",
+        "overrides": {
+            "items_to_drop_when_ominous.json": ""
+        }
+    },
+    {
+        "path": "\\spawners\\ominous\\trial_chamber",
+        "suffix": "_ominous_spawner"
+    }
+]
