@@ -1,6 +1,6 @@
 # MinecraftLootChestJsonMaker
 
-> [!Info]
+> [!Note]
 > 中文文档见[README_cn.md](https://github.com/JerryHan3/MinecraftLootChestJsonMaker/blob/main/README_cn.md)
 
 Generate a Minecraft loot table for Minecraft Wiki [Module:LootChest](https://zh.minecraft.wiki/w/Module:LootChest).
